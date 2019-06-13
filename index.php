@@ -1,0 +1,1 @@
+ <?php echo '<p>Hello This is the first application</p>'; ?> 
